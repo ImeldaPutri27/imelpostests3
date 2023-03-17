@@ -6,7 +6,7 @@ class Node:
         self.nama = nama
         self.laundry = laundry
         self.next = None
-# kelas linkedlist
+# kelas Linked List
 class LinkedList :
     def __init__(self):
         self.head = None
@@ -152,14 +152,16 @@ Pilihan => 1
 Username : imel
 Password : 123
 
-# Menampilan Daftar Data Laundry
-           * Dream Laundry *
+# Tampilan Menu
+* Dream Laundry *
 
  Rincian Laundry Dream :
 1. Lihat data laundry
 2. Menambah data laundry
 3. Hapus data laundry
 4. Keluar
+
+# Menampilan Daftar Data Laundry
 Masukkan pilihan: 1
 
  Daftar Data Laundry Yang Tersedia 
@@ -172,15 +174,6 @@ Masukkan pilihan: 1
 =================================  
 
 # Menambahkan Data 
-           * Dream Laundry *
-
- Rincian Laundry Dream :
-1. Lihat data laundry
-2. Menambah data laundry
-3. Hapus data laundry
-4. Keluar
-Masukkan pilihan: 2
-
   Tambah Data Baru     
 
 Masukkan Id Pelanggan: 18
@@ -190,13 +183,6 @@ Masukkan Laundry/Kg Pelanggan: 5
 =================================
 
 # Menghapus Data
-           * Dream Laundry *
-
- Rincian Laundry Dream :
-1. Lihat data laundry
-2. Menambah data laundry
-3. Hapus data laundry
-4. Keluar
 Masukkan pilihan: 3
 
  Hapus Data Laundry      
